@@ -169,6 +169,7 @@
   backdrop-filter: blur(9px);
   -webkit-backdrop-filter: blur(9px); 
   
+  
 }
 
 #project-title{
@@ -187,3 +188,4 @@
   margin: auto;
   
 }
+
